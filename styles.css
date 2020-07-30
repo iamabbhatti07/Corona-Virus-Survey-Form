@@ -1,0 +1,52 @@
+body{
+	margin: 0;
+	padding: 0;
+	/* <a href="https://ibb.co/7twgvVf"><img src="https://i.ibb.co/GQKs7k6/corona-mask.jpg" alt="corona-mask" border="0"></a> */
+/* 	box-sizing: border-box;background: rgb(19,11,142);
+	background: linear-gradient(45deg, 	rgba(19,11,142,1) 0%, 
+										rgba(74,160,186,1) 43%, 
+										rgba(0,155,255,1) 74%);
+ */
+ }
+ .container{
+	background: url('https://i.ibb.co/GQKs7k6/corona-mask.jpg');
+	background-size: cover;
+ }
+
+#maincontent01{
+	padding: 0 40px;
+	line-height: 40px;
+}
+
+.form-group{
+	margin: 4px;
+}
+div div main {
+	width: 60%;
+	margin: 0 auto;	
+	
+	background: rgba(0,0,0, 0.7);
+
+}
+label{
+	margin-top:10px 
+}
+input{
+	border-radius: 8px;
+	width: 100%;
+	padding-left: 15px;
+}
+input:focus{
+	outline: none;
+}
+
+div div main form label{
+
+}
+#submit:hover{
+	background: white;
+	font-weight: bold;
+	color: black;
+	transition-duration: 0.3s; 
+
+}
